@@ -1,6 +1,7 @@
 ### Hola! Soy Cyntia 👋
 
-❤️Mi objetivo es desempeñarme como desarrolladora Full Stack❤️
+❤️ Soy desarrolladora Front-End y voy en camino en convertirme en Full Stack ❤️ 
+
 
 
 
